@@ -1,0 +1,8 @@
+# Тестовый репозиторий для демонстрации
+# Формат: пакет: зависимость1, зависимость2, ...
+
+requests: urllib3, chardet, certifi, idna
+numpy:
+pandas: numpy, pytz
+matplotlib: numpy, pillow
+flask: Werkzeug, Jinja2, itsdangerous, click

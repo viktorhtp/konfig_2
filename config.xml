@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <package_name>requests</package_name>
+    <repository_url>https://pypi.org/simple/</repository_url>
+    <test_mode>false</test_mode>
+    <test_repository_path>test_repo.txt</test_repository_path>
+    <output_filename>dependencies_graph.png</output_filename>
+</config>
